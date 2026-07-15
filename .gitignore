@@ -58,3 +58,4 @@ ENV/
 
 # OS
 .DS_Store
+assets/
